@@ -1,2 +1,7 @@
 SELECT 1+1 AS Result;
+GO
 SELECT 1*1 AS Result; 
+GO
+SELECT 1/0 AS Result; 
+GO
+SELECT 1/1 AS Result; 
