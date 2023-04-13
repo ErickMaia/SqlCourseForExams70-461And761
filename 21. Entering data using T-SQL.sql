@@ -1,0 +1,7 @@
+INSERT INTO SecondTable
+VALUES (234)
+
+INSERT INTO SecondTable
+VALUES (678)
+
+INSERT INTO SecondTable VALUES (456), (156), (478)
